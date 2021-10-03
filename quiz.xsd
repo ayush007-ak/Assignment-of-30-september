@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+xmlns:tns="http://www.example.org/quiz" elementFormDefault="qualified">
+<element name="quizs">
+<complexType>
+<sequence>
+<element name="quiz" maxOccurs="unbounded">
+<complexType>
+<sequence>
+<element name="subject" type="string"/>
+<element name="question" type="string"/>
+<element name="option1" type="string"/>
+<element name="option2" type="string"/>
+<element name="option3" type="string"/>
+</sequence>
+</complexType>
+</element>
+</sequence>
+</complexType>
+</element>
+</schema>

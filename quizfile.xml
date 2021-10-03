@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quiz.xsd">
+  <quiz>
+    <subject>IT</subject>
+    <question>Who is founder of facebook </question>
+    <option1>mark zuckerburg</option1>
+    <option2>Elon musk</option2>
+    <option3>jeff bezos</option3>
+  </quiz>
+  <quiz>
+    <subject>GK</subject>
+    <question>Captain of india team </question>
+    <option1>virat kohli</option1>
+    <option2>dhoni</option2>
+    <option3>jadega</option3>
+  </quiz>
+</quizs>
